@@ -23,9 +23,11 @@ Building AI systems that solve real problems for Africa.
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat)
 
-### 📊 GitHub Stats
+## Recent open source contributions
 
-![Jesse's GitHub stats](https://github-readme-stats.vercel.app/api?username=js-muc&show_icons=true&theme=dark)
+- **[petertzy/markdown-reader #385](https://github.com/petertzy/markdown-reader/pull/385)** — Documentation fix (merged)
+- **[yunaremaia/gfi #101](https://github.com/yunaremaia/gfi/pull/101)** — Python bug fix with tests (merged)
+- **[crewAIInc/crewAI #7839](https://github.com/crewAIInc/crewAI/issues/7839)** — Documentation bug report (open, fix in progress)
 
 ### 🌍 Mission
 
