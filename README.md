@@ -2,15 +2,14 @@
 
 ## Full Stack Developer & AI Engineer | Nairobi, Kenya
 
-Self-taught developer with a BSc in Physics and Chemistry.
-Building AI systems that solve real problems for Africa.
+Self-taught developer with a BSc in Physics and Chemistry. Building open source Python projects and AI systems that solve real problems for Africa.
 
-### 🔥 What I'm Building
+## 🔥 What I'm Doing Now
 
-🏥 **ClinicalMind** — AI Clinical Intelligence for African Healthcare
-> Natural language querying of patient records with 3-layer reasoning
-
-🤖 **Agentic RAG System** — LangGraph powered document intelligence
+- 🧠 **Learning and contributing to open source Python projects** — merged PRs in [`petertzy/markdown-reader`](https://github.com/petertzy/markdown-reader) and [`yunaremaia/gfi`](https://github.com/yunaremaia/gfi)
+- 📝 **Practicing structured code review** — see [`code-review-portfolio`](https://github.com/js-muc/code-review-portfolio) for notes on real, merged PRs
+- 🧪 **Building agentic RAG systems** — LangGraph-powered document intelligence in [`AI-Agents`](https://github.com/js-muc/AI-Agents)
+- 💡 **Exploring clinical AI applications** — a proof-of-concept in [`ClinicalMind`](https://github.com/js-muc/ClinicalMind) (archived)
 
 ### 🛠️ Tech Stack
 
