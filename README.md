@@ -28,10 +28,9 @@ Self-taught developer with a BSc in Physics and Chemistry. Building open source 
 - **[yunaremaia/gfi #101](https://github.com/yunaremaia/gfi/pull/101)** — Python bug fix with tests (merged)
 - **[crewAIInc/crewAI #7839](https://github.com/crewAIInc/crewAI/issues/7839)** — Documentation bug report (open, fix in progress)
 
-### 🌍 Mission
+## 🌍 Mission
 
-> Building affordable AI tools for African healthcare,
-> education and business — from Nairobi to the world.
+> Early-career software engineer, contributing to open source Python projects and building agentic AI systems. Long-term: affordable AI tools for African healthcare, education, and business.
 
 ### 📫 Connect With Me
 
