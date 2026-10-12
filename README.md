@@ -24,9 +24,10 @@ Self-taught developer with a BSc in Physics and Chemistry. Building open source 
 
 ## Recent open source contributions
 
-- **[petertzy/markdown-reader #385](https://github.com/petertzy/markdown-reader/pull/385)** — Documentation fix (merged)
-- **[yunaremaia/gfi #101](https://github.com/yunaremaia/gfi/pull/101)** — Python bug fix with tests (merged)
-- **[crewAIInc/crewAI #7839](https://github.com/crewAIInc/crewAI/issues/7839)** — Documentation bug report (open, fix in progress)
+- [petertzy/markdown-reader #294](https://github.com/petertzy/markdown-reader/pull/294) — Documentation fix (merged)
+- [petertzy/markdown-reader #385](https://github.com/petertzy/markdown-reader/pull/385) — Documentation fix (merged)
+- [yunaremaia/gfi #101](https://github.com/yunaremaia/gfi/pull/101) — Python bug fix with tests (merged)
+- [crewAIInc/crewAI #7839](https://github.com/crewAIInc/crewAI/issues/7839) — Documentation bug report (open, fix in progress)
 
 ## 🌍 Mission
 
