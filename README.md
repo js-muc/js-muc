@@ -28,6 +28,7 @@ Self-taught developer with a BSc in Physics and Chemistry. Building open source 
 - [petertzy/markdown-reader #385](https://github.com/petertzy/markdown-reader/pull/385) — Documentation fix (merged)
 - [yunaremaia/gfi #101](https://github.com/yunaremaia/gfi/pull/101) — Python bug fix with tests (merged)
 - [crewAIInc/crewAI #7839](https://github.com/crewAIInc/crewAI/issues/7839) — Documentation bug report (open, fix in progress)
+- [encode/httpx #3805](https://github.com/encode/httpx/discussions/3805) — Documentation fix: removing Python 2 syntax (discussion approved, patch submitted)
 
 ## 🌍 Mission
 
